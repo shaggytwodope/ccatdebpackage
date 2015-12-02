@@ -1,0 +1,13 @@
+Source: ccat
+Section:  misc
+Priority: extra
+Maintainer: John Jenkins <twodopeshaggy@gmail.com>
+Build-Depends: debhelper (>= 7.0.50~), golang-go, git
+Standards-Version: 3.9.1
+Homepage: https://github.com/jingweno/ccat
+
+Package: ccat
+Architecture: amd64 i386 armel armhf arm64
+Depends: ${misc:Depends}
+Description: ccat is the colorizing cat.
+ It works similar to cat but displays content with syntax highlighting.

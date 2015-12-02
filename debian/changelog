@@ -1,0 +1,17 @@
+ccat (0.1.1-2) wily; urgency=medium
+
+  * yet again 
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Tue, 01 Dec 2015 19:11:39 -0800
+
+ccat (0.1.1-1) wily; urgency=medium
+
+  * update depends
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Tue, 01 Dec 2015 19:03:51 -0800
+
+ccat (0.1.1-0) wily; urgency=medium
+
+  * init release
+
+ -- John Jenkins <twodopeshaggy@gmail.com>  Sat, 21 Nov 2015 01:01:36 -0800
